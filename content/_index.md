@@ -10,6 +10,17 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/salih-ergezen)
 
+<style>
+  .interests-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .interests-grid div {
+    padding: 10px;
+  }
+</style>
+
 ## My Interests
 
 <div class="interests-grid">
@@ -20,7 +31,7 @@
     - [Book review: How to win friends and influence people](Hey,%20I'm%20Salih%20b55cc21b89194aecbf1342efca803d5c/Book%20review%20How%20to%20win%20friends%20and%20influence%20peopl%20653fa874813c4f5190c7e487d571a806.md)
     - [How to talk when the stakes are high](Hey,%20I'm%20Salih%20b55cc21b89194aecbf1342efca803d5c/How%20to%20talk%20when%20the%20stakes%20are%20high%201d78f2cdd69d4dec903a97cfb4b7212e.md)
   </div>
-  
+
   <div>
     ### Last Travels
     - [Snowy Germany](Hey,%20I'm%20Salih%20b55cc21b89194aecbf1342efca803d5c/Snowy%20Germany%20f80ef5a2da534affb57ce657cd045d5e.md)
@@ -29,7 +40,7 @@
     - [Visiting Rome](Hey,%20I'm%20Salih%20b55cc21b89194aecbf1342efca803d5c/Visiting%20Rome%201f3e8c8b6eae443ab555053d8a4abf75.md)
     - [The state of Palestine](Hey,%20I'm%20Salih%20b55cc21b89194aecbf1342efca803d5c/The%20state%20of%20Palestine%20650898ae4bcb4787833940e9b1120891.md)
   </div>
-  
+
   <div>
     ### Photography
     - [De Groote Peel National Park](Hey,%20I'm%20Salih%20b55cc21b89194aecbf1342efca803d5c/De%20Groote%20Peel%20National%20Park%206471d3fb383e4c1e885231d0267f404e.md)
